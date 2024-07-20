@@ -11,10 +11,10 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Live-Docs",
+  title: "LiveDocs",
   description: "Your go-to colloborative editor",
   icons: {
-    icon: "/logo.jpg",
+    icon: "/assets/icons/logo-icon.svg",
   },
 };
 
